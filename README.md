@@ -11,3 +11,4 @@ This repo contains solutions of programming problems  of January Challenge
 | 15th Jan, 2022 | [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Here](1345_Jump%20Game%20IV_(15th%20Jan%202022)) |
 | 16th Jan, 2022 | [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Here](849_Maximize%20Distance%20to%20Closest%20Person_(16th%20Jan%202022)) |
 | 17th Jan, 2022 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | [Here](290_Word%20Pattern_(17th%20Jan%202022)) |
+| 18th Jan 2022 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Here](605_Can%20Place%20Flowers_(18th%20Jan%202022)) |
